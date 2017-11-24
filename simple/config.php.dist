@@ -1,8 +1,0 @@
-<?php
-
-return [
-    'smtp_server' => 'smtp.example.org',
-    'smtp_port' => 465, // SSL only
-    'smtp_user' => '?',
-    'smtp_password' => '?',
-];
